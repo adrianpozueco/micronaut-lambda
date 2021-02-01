@@ -34,7 +34,7 @@ dependencies {
 }
 
 application {
-    mainClass.set("com.ryanair.S3EventsHandler")
+    mainClass.set("com.ryanair.S3EventsLambdaRuntime")
 }
 
 java {
